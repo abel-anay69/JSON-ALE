@@ -74,7 +74,7 @@
     {
         "id": 4,
         "nombre": "Museum",
-        "img": "../../Multimedia/Imagenes/Coleciones/Museum/museum-01.jpg",
+        "img": "../../Multimedia/Imagenes/Colecciones/Museum/museum-01.jpg",
         "num_tomos": 3,
         "tomos":
             [
@@ -98,7 +98,7 @@
     {
         "id": 5,
         "nombre": "The Killing Joke",
-        "img": "../../Multimedia/Imagenes/Coleciones/The-Killing-Joke/batman-noir-the-killing-joke.jpg",
+        "img": "../../Multimedia/Imagenes/Colecciones/The-Killing-Joke/batman-noir-the-killing-joke.jpg",
         "num_tomos": 1
     }
 ]
