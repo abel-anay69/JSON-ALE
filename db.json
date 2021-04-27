@@ -1,0 +1,54 @@
+{"coleccion":
+
+
+[
+    {
+        "id": "Harleen",
+        "nombre": "Harleen",
+        "img": "../../Multimedia/Imagenes/Comics/harleen-num-1-de-3.jpg",
+        "num_tomos": 3,
+        "tomos":
+            [
+                {
+                    "id_tomo": 1,
+                    "nombre": "Harleen 01"
+                },
+
+                {
+                    "id_tomo": 2,
+                    "nombre": "Harleen 02"
+                },
+
+                {
+                    "id_tomo": 3,
+                    "nombre": "Harleen 03"
+                }
+            ]
+        
+    },
+
+    {
+        "id": "Museum",
+        "nombre": "Museum",
+        "img": "../../Multimedia/Imagenes/Coleciones/Museum/museum-01.jpg",
+        "tomos":
+            [
+                {
+                    "id_tomo": 1,
+                    "nombre": "Museum 01"
+                },
+
+                {
+                    "id_tomo": 2,
+                    "nombre": "Museum 02"
+                },
+
+                {
+                    "id_tomo": 3,
+                    "nombre": "Museum 03"
+                }
+            ]
+    }
+]
+
+}
