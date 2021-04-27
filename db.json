@@ -4,9 +4,53 @@
 [
     {
         "id": 1,
+        "nombre": "Heart Gear",
+        "img": "../../Multimedia/Imagenes/Colecciones/Heart-Gear/heart-gear-01.jpg",
+        "num_tomos": 2,
+        "tomos":
+            [
+                {
+                    "id_tomo": 1,
+                    "nombre": "Heart Gear 01"
+                },
+
+                {
+                    "id_tomo": 2,
+                    "nombre": "Heart Gear 02"
+                }
+            ]
+        
+    },
+    
+    {
+        "id": 2,
         "nombre": "Harleen",
-        "img": "../../Multimedia/Imagenes/Comics/harleen-num-1-de-3.jpg",
+        "img": "../../Multimedia/Imagenes/Colecciones/Harleen/harleen-num-1-de-3(1).jpg",
         "num_tomos": 3,
+        "tomos":
+            [
+                {
+                    "id_tomo": 1,
+                    "nombre": "Harleen 01"
+                },
+
+                {
+                    "id_tomo": 2,
+                    "nombre": "Harleen 02"
+                },
+
+                {
+                    "id_tomo": 3,
+                    "nombre": "Harleen 03"
+                }
+            ]
+        
+    },
+      {
+        "id": 3,
+        "nombre": "Asterix y Obelix",
+        "img": "../../Multimedia/Imagenes/Colecciones/Asterix/asterix-01-el-galo.jpg",
+        "num_tomos": 37,
         "tomos":
             [
                 {
@@ -28,7 +72,7 @@
     },
 
     {
-        "id": 2,
+        "id": 4,
         "nombre": "Museum",
         "img": "../../Multimedia/Imagenes/Coleciones/Museum/museum-01.jpg",
         "num_tomos": 3,
@@ -49,6 +93,13 @@
                     "nombre": "Museum 03"
                 }
             ]
+    },
+    
+    {
+        "id": 5,
+        "nombre": "The Killing Joke",
+        "img": "../../Multimedia/Imagenes/Coleciones/The-Killing-Joke/batman-noir-the-killing-joke.jpg",
+        "num_tomos": 1
     }
 ]
 
