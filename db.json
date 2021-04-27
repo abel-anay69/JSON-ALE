@@ -3,7 +3,7 @@
 
 [
     {
-        "id": "Harleen",
+        "id": 1,
         "nombre": "Harleen",
         "img": "../../Multimedia/Imagenes/Comics/harleen-num-1-de-3.jpg",
         "num_tomos": 3,
@@ -28,7 +28,7 @@
     },
 
     {
-        "id": "Museum",
+        "id": 2,
         "nombre": "Museum",
         "img": "../../Multimedia/Imagenes/Coleciones/Museum/museum-01.jpg",
         "num_tomos": 3,
