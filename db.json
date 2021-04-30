@@ -3,7 +3,7 @@
 
 [
     {
-        "id": "heart-gear",
+        "id": 1,
         "nombre": "Heart Gear",
         "img": "../../Multimedia/Imagenes/Colecciones/Heart-Gear/heart-gear-01.jpg",
         "num_tomos": 2,
@@ -23,7 +23,7 @@
     },
     
     {
-        "id": "harleen",
+        "id": 2,
         "nombre": "Harleen",
         "img": "../../Multimedia/Imagenes/Colecciones/Harleen/harleen-num-1-de-3.jpg",
         "num_tomos": 3,
@@ -47,7 +47,7 @@
         
     },
       {
-        "id": "asterix-obelix",
+        "id": 3,
         "nombre": "Astérix y Obélix",
         "img": "../../Multimedia/Imagenes/Colecciones/Asterix/asterix-01-el-galo.jpg",
         "num_tomos": 37,
@@ -72,7 +72,7 @@
     },
 
     {
-        "id": "museum",
+        "id": 4,
         "nombre": "Museum",
         "img": "../../Multimedia/Imagenes/Colecciones/Museum/museum-01.jpg",
         "num_tomos": 3,
@@ -96,7 +96,7 @@
     },
     
     {
-        "id": "the-killing-joke",
+        "id": 5,
         "nombre": "The Killing Joke",
         "img": "../../Multimedia/Imagenes/Colecciones/The-Killing-Joke/batman-noir-the-killing-joke.jpg",
         "num_tomos": 1
